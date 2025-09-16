@@ -1,1 +1,0 @@
-/* revised the previous concepts and i'll do this for 2-3 days*/
