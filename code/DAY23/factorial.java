@@ -1,4 +1,4 @@
-package RECURSSION.REC1;
+package DAY23;
 
 public class factorial {
     public static int fact(int n){
