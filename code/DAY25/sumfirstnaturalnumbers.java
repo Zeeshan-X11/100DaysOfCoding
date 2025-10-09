@@ -1,4 +1,4 @@
-package RECURSSION.REC1;
+package DAY25;
 
 public class sumfirstnaturalnumbers {
     public static int calcsum(int n){

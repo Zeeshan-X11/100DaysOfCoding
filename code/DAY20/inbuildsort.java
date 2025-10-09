@@ -1,4 +1,4 @@
-package SORTING;
+package DAY20;
 import java.util.Arrays;
 
 public class inbuildsort {

@@ -1,4 +1,4 @@
-package SORTING;
+package DAY19;
 public class countsort {
     public static void countingSort(int arr[]) {
         // find max

@@ -1,4 +1,4 @@
-package SORTING;
+package DAY19;
 public class insertionsort {
     public static void insertionSort(int arr[]) {
         for (int i = 1; i < arr.length; i++) {

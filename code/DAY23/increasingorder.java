@@ -1,4 +1,4 @@
-package RECURSSION.REC1;
+package DAY23;
 
 
 public class increasingorder{

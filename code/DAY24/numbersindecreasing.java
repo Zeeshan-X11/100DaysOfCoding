@@ -1,4 +1,4 @@
-package RECURSSION.REC1;
+package  DAY24;
 
 public class numbersindecreasing {
     public static void printDec(int n){
