@@ -1,4 +1,4 @@
-package BITMANULULATION;
+package DAY29;
 
 public class clearlastbit {
     public static int clearibits(int n , int i ){

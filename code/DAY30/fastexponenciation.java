@@ -1,4 +1,4 @@
-package BITMANULULATION;
+package DAY30;
 
 public class fastexponenciation {
     public static int fastexpo(int a ,int  n){

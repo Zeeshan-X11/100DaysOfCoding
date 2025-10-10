@@ -1,4 +1,4 @@
-package BITMANULULATION;
+package DAY27;
 
 public class clearithbit{ 
     public static int clearithbit(int n, int i){
