@@ -1,4 +1,4 @@
-package BITMANULULATION;
+package DAY31;
 
 public class oddoreven {
     public static void oddoreven(int n){
