@@ -1,4 +1,4 @@
-package BITMANULULATION;
+package DAY32;
 
 public class setithbit{ 
     public static int setithbit(int n, int i){

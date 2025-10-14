@@ -1,4 +1,4 @@
-package BITMANULULATION;
+package DAY32;
 
 public class powerof2ornot {
     public static boolean ispoweroftwo(int n ){
@@ -10,3 +10,4 @@ public class powerof2ornot {
     }
 }
 
+-
